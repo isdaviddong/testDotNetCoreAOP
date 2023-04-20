@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Wpm9wpawv1BUSzE1o3l2v+AATIGsw6HtkhFRTEz89q97Oi/CdI1IG2SDPfwwDoJVGyuUeQlGCPlVO762d8N8Q==",
+  "success": true,
+  "projectFilePath": "D:\\testAOP\\testAOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vmadmin\\.nuget\\packages\\isrock.core.aop\\1.0.0\\isrock.core.aop.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

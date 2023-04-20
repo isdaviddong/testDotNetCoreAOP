@@ -1,0 +1,16 @@
+D:\testAOP\bin\Debug\netcoreapp3.1\testAOP.exe
+D:\testAOP\bin\Debug\netcoreapp3.1\testAOP.deps.json
+D:\testAOP\bin\Debug\netcoreapp3.1\testAOP.runtimeconfig.json
+D:\testAOP\bin\Debug\netcoreapp3.1\testAOP.runtimeconfig.dev.json
+D:\testAOP\bin\Debug\netcoreapp3.1\testAOP.dll
+D:\testAOP\bin\Debug\netcoreapp3.1\testAOP.pdb
+D:\testAOP\obj\Debug\netcoreapp3.1\testAOP.csproj.AssemblyReference.cache
+D:\testAOP\obj\Debug\netcoreapp3.1\testAOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\testAOP\obj\Debug\netcoreapp3.1\testAOP.AssemblyInfoInputs.cache
+D:\testAOP\obj\Debug\netcoreapp3.1\testAOP.AssemblyInfo.cs
+D:\testAOP\obj\Debug\netcoreapp3.1\testAOP.csproj.CoreCompileInputs.cache
+D:\testAOP\obj\Debug\netcoreapp3.1\testAOP.dll
+D:\testAOP\obj\Debug\netcoreapp3.1\testAOP.pdb
+D:\testAOP\obj\Debug\netcoreapp3.1\testAOP.genruntimeconfig.cache
+D:\testAOP\bin\Debug\netcoreapp3.1\isRock.Core.AOP.dll
+D:\testAOP\obj\Debug\netcoreapp3.1\testAOP.csproj.CopyComplete
